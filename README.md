@@ -1,0 +1,2 @@
+# kirieshkafetch
+Пародия на fastfetch
